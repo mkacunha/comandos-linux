@@ -159,7 +159,7 @@
 ### Variáveis de ambiente
 `env`   mostra todas as variáveis de ambiente  
 `PATH=$PATH:<diretório>`   atribuir um novo diretório ao PATH apenas para o terminal atual  
-`gedit .bashsrc &`   abre o arquivo onde deve ser configurado o PATH permanente. Este arquivo está localizado dentro da pasta pessoal do usuário=/home/usuário  
+`gedit .bashrc &`   abre o arquivo onde deve ser configurado o PATH permanente. Este arquivo está localizado dentro da pasta pessoal do usuário=/home/usuário  
 
 ### Instalação de programas apt-get
 
